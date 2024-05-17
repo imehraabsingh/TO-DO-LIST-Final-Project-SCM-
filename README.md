@@ -1,5 +1,23 @@
 # TO-DO-LIST-Final-Project-SCM-
 <!-- HTML table with inline CSS styles -->
+<h1>TO-DO LIST</h1>
+<h4>Description:</h4>
+<p>This is a simple To-Do List application designed to help users organize their tasks efficiently. Users can add, delete, and mark tasks as completed, keeping track of their progress easily.<br>This is a very simple and easy design for all age users so that it is easy to use and understand. Application is made to increase productivity. </p>
+
+<h2>TEAM MEMBERS</h2>
+<h3>MEHRAAB SINGH (2310992152)</h3>
+<h3>MISHIKA GARG (2310992153)</h3>
+<h3>MITUL GOYAL (2310992154)</h3>
+
+<p>This to do list project is made using HTML(Hypertext Markup Language) which makes the structure layout and function of the project.</p>
+<h4>Features:</h4>
+<p><b>Add Task:</b> Users can add new tasks by typing them into the input field and pressing enter.
+<b>Delete Task:</b> Tasks can be deleted individually by clicking on the delete button next to each task.
+<b>Mark as Completed:</b> Users can mark tasks as completed by clicking on the checkbox next to each task.
+<b>Filtering:</b> Users can filter tasks by All Tasks, Active Tasks, and Completed Tasks, providing better organization.
+<b>Clear Completed:</b> Users can remove all completed tasks with a single click for a clutter-free interface.
+<b>Local Storage:</b> Tasks are saved to the browser's local storage, allowing users to access their tasks even after closing the browser.</p>
+
 <table style="width: 100%; border-collapse: collapse;">
     <tr style="background-color: #4CAF50; color: white;">
         <th style="padding: 8px; text-align: left;">S. No.</th>
